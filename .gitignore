@@ -213,3 +213,4 @@ __pycache__/
 *.pyc
 data/
 !data/.gitkeep
+key.env
