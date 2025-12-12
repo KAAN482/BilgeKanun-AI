@@ -211,5 +211,5 @@ __pycache__/
 .env
 .DS_Store
 *.pyc
-data/raw/
-data/processed/
+data/
+!data/.gitkeep
